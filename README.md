@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy German Sánchez!
+# 👋 ¡Hola, soy Germán Sánchez!
 
 🚀 Apasionado por la informática, el desarrollo web y la sostenibilidad.  
 💻 Trabajo con **JavaScript, Python, Bash y Linux**.  
