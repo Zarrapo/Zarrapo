@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 ¡Hola, soy German Sánchez!
 
-<!--
-**Zarrapo/Zarrapo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Apasionado por la informática, el desarrollo web y la sostenibilidad.  
+💻 Trabajo con **JavaScript, Python, Bash y Linux**.  
+🔧 Administrador de servidores Linux y creador de proyectos en la web.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+- **Lenguajes:** JavaScript, Python, HTML/CSS, Bash  
+- **Frameworks & Tools:** Node.js, Electron, Express.js  
+- **Sistemas:** Ubuntu Server, Debian, Linux  
+- **Intereses:** Web apps, scripts de automatización, sostenibilidad
+
+---
+
+## 📌 Proyectos Destacados
+🔹 **[deepseek-electron](https://github.com/Zarrapo/deepseek-electron)** - App de escritorio con Electron  
+🔹 **scripts-linux** - Scripts útiles para servidores Linux  
+🔹 **eco-web** - Proyecto sobre sostenibilidad y medio ambiente  
+
+---
+
+## 🌍 Conéctate conmigo
+📫 [Mi GitHub](https://github.com/Zarrapo) | 🌱 *Siempre aprendiendo*
