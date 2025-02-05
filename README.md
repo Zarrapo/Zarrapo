@@ -15,6 +15,7 @@
 ---
 
 ## 📌 Proyectos Destacados
+🔹 **[radio3-electron](https://github.com/Zarrapo/radio3-electron)** - App de escritorio con Electron  
 🔹 **[deepseek-electron](https://github.com/Zarrapo/deepseek-electron)** - App de escritorio con Electron  
 🔹 **scripts-linux** - Scripts útiles para servidores Linux  
 🔹 **eco-web** - Proyecto sobre sostenibilidad y medio ambiente  
