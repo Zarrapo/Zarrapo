@@ -10,15 +10,17 @@
 - **Lenguajes:** JavaScript, Python, HTML/CSS, Bash  
 - **Frameworks & Tools:** Node.js, Electron, Express.js  
 - **Sistemas:** Ubuntu Server, Debian, Linux  
-- **Intereses:** Web apps, scripts de automatización, sostenibilidad
+- **Hardware & Electrónica:** Arduino, ESP8266, ESP32, Raspberry Pi, sensores y módulos IoT  
+- **Intereses:** Web apps, scripts de automatización, sostenibilidad  
 
 ---
 
 ## 📌 Proyectos Destacados
 🔹 **[radio3-electron](https://github.com/Zarrapo/radio3-electron)** - App de escritorio con Electron  
 🔹 **[deepseek-electron](https://github.com/Zarrapo/deepseek-electron)** - App de escritorio con Electron  
+🔹 **[vsc-arduino-community-edition](https://github.com/Zarrapo/vsc-arduino-community-edition)** - Configuración VSC para Arduino  
 🔹 **scripts-linux** - Scripts útiles para servidores Linux  
-🔹 **eco-web** - Proyecto sobre sostenibilidad y medio ambiente  
+🔹 **eco-web** - Proyectos sobre sostenibilidad y medio ambiente  
 
 ---
 
